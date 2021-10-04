@@ -1,3 +1,13 @@
 .container {
-    max-width: 1300px;
+    max-width: 1350px;
+    margin: auto;
+    height: auto;
+}
+
+.logo {
+    width: 12.5%;
+}
+
+.logo img {
+    width: 100%;
 }
