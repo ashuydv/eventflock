@@ -14,7 +14,7 @@ function App() {
   return ( 
     <div className="App">
       <Header/>
-      <Switch>
+      <Switch className=''>
         <Route exact path='/' component={Home} />
         <Route exact path='/explore' component={Events} />
         <Route exact path='/events/:productId' component={EventDetails} />

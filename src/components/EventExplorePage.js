@@ -63,10 +63,6 @@ function EventExplorePage({ menus }) {
                     <h2 className="text-gray-900 title-font text-lg font-medium">
                       Heading
                     </h2>
-                    <p className="mt-1">
-                      Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                      Blanditiis, quisquam.
-                    </p>
                   </div>
                 </div>
               </div>
